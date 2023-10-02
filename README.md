@@ -30,21 +30,21 @@ problem solved : Employee Management System.
 
 // YOU NEED TO EXPLAIN
 
-# DATABASE:
+ DATABASE
 
 1 login table - ADMIN
 2 employee table - Employee details.
 
-Features :
+Features 
 
-# LOGIN - There is a login page where only admin can login and manage the details of the Employees.
-# DashBoard - After login, main dashboard will open where admin can perform various operations like adding an employee, deleting an employee , update employee details, and view Employee details.
-# Add employee – Here admin have to enter all the required credentials to add a 
+ LOGIN - There is a login page where only admin can login and manage the details of the Employees.
+ DashBoard - After login, main dashboard will open where admin can perform various operations like adding an employee, deleting an employee , update employee details, and view Employee details.
+ Add employee – Here admin have to enter all the required credentials to add a 
 new employee to the system. 
-# Remove employee – Admin has to enter the employee id in order to delete employee details from the system.
-# View and update employee –  In order to view and update employee 
+ Remove employee – Admin has to enter the employee id in order to delete employee details from the system.
+ View and update employee –  In order to view and update employee 
 information, the admin have to enter employee ID.
-# PRINT Option -  This will print the employees details which are exist in database and we can also print employee details by searching its employee id.
+ PRINT Option -  This will print the employees details which are exist in database and we can also print employee details by searching its employee id.
 
  
 adv:
